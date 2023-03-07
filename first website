@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+   <head>
+      <meta charset="UTF-8">
+      <meta name="description" content="This is an awesome website">
+      <title>Aswin's website</title>
+   </head>
+   <body style="background-color: green;">
+      <h3>MY first web-site</h3>
+      <hr/>
+      <p style="color: blue;">Hi my name is Aswin</p>
+
+      <!--comment-->
+   </body>
+
+</html>
