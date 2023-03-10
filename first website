@@ -24,23 +24,18 @@
       <table>
          <thead>
             <br>
-          <caption>List of numbers:</caption>
+          <caption>My CGPA:</caption>
           <tr>
-            <td>ROW 1</td>
-            <td>ROW 2</td>
-            <td>ROW 3</td>
+            <td>SEM 1</td>
+            <td>SEM 2</td>
+            <td>SEM 3</td>
           </tr>
          </thead>
          <tbody>
           <tr>
-            <td>one</td>
-            <td>two</td>
-            <td>three</td>
-          </tr>
-          <tr>
-            <td>four</td>
-            <td>five</td>
-            <td>six</td>
+            <td>7.1</td>
+            <td>8.0</td>
+            <td>7.9</td>
           </tr>
          </tbody>
       </table>
