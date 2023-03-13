@@ -1,0 +1,91 @@
+Create a folder for project
+Add folder to the text editor
+Create new file with extension html
+
+
+=>Tags are used to create a webpage the way we want to look
+
+<!DOCTYPE html>  -> refers to the type of the document
+=><html>  -> starting tag
+</html> -> ending tag
+Every code is placed between the starting and ending tag
+
+=><head>   -> starting of head tag
+</head>  ->ending of the head tag
+head tag is defines the attribute of the file
+
+=><body>   -> starting of body tag
+</body>  ->ending of body tag
+<title>  ->holds title of the website
+<p>     ->paragraph tag
+<b>     ->It describes the given text in Bold
+<i>     -> It describes the given text in Italics 
+<br/>   ->It gives a space between the lines 
+<hr/>   ->A new line comes between 
+<big>   -> Font increases in size
+<small> ->Font decreases in size
+<sub>   ->It converts the text in subscript
+<sup>   ->It converts the text in superscript
+<!--    ->Comment starting
+-->     ->Comment ending
+<header>   ->header part of the website
+<main>   ->middle or the main section 
+<footer>   ->footer part mostly contains navigation links
+<nav>   ->contains links
+<article>   ->has the article part
+<section>   ->diverse the parts
+<aside>   ->used for the side or not main parts 
+
+
+TO ADD LINKS:
+<a href="link">   ->Link navigates in the same tab
+<a herf="link" target ="_blank">   ->Link navigates in different tab
+<a href="html file">   ->to open other html file present in same folder
+<a href="directory">   ->to open html file present somewhere else
+<a href="file">   ->open file in same folder
+<img src="image link" alt="text if image is not present">   ->image from web
+<img src="image file">   ->image in computer
+<img width="100" height="100" src="image file">   ->to resize image
+<video src="video file">   ->plays video without controls
+<video src "video file" controls>   ->videos play with control
+<iframe>   ->peek into otherwise
+
+
+To embed youtube video go to the video->share->embed
+
+<ul>   ->unorderd list
+<li>   ->list
+<ol>   ->Ordered list
+
+Tables:
+
+<table>   ->creates a table
+<tr>   ->table row
+<th>   ->table header
+<td>   ->data to be entered (column)
+<caption>   ->Title of Table
+<thead>   ->header
+<tbody>   ->body
+<td colspan="any integer">   ->takes any nummber of columns in a table
+
+<span>   -> can keep elements in same line
+<block>   -> can keep elements in next line and are block elements
+
+INPUT:
+<input type="text" />   ->gets input as text
+<input type="password" />   ->gets input as password
+<input type="text" value="Enter Your Username"/>   ->gets input as text with default value already present
+<textarea>   ->types text in differnet sizes of area
+<textarea rows="10" columns="20">   ->gives size
+<input type="date"/>
+<input type="email"/>
+<input type="range"/>
+<input type="file"/>
+<input type="checkbox"/>
+ <input type="radio"/>
+ <input name="btn" type="date"/>   ->can select only one at a time if same name is given to 2
+ <input type="submit"/>
+ 
+ <form> ->acts as wrapper for other tags
+ <iframe src="link" framebroader="0">   ->displays what is in the link inside the website
+ <meta name="viewport" content="width=device-width,initial-scale=1.0">
